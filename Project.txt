@@ -1,0 +1,11 @@
+1) Java
+2)HTML
+3)to make divisions of content in the web page.
+4)relative to its parent's position and changing the layout around it.
+5)The CSS opacity property is used to specify the transparency of an element
+6)JS
+7)EXPO
+8)
+9)technique for sharing code between React components
+10)let you describe what you want to see on the screen
+11)product strategy, mobile app architecture, user experience design, and mobile app marketing.
